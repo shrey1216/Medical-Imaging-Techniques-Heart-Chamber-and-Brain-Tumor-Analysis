@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 #Finding the chambers of the heart through a variation of techniques. Each technique is separated out by comment. 
 
 #(a) Take the image heart.jpg and find a threshold to pull out the two heart
